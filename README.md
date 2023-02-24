@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Korry Tunnicliff, a computer science student graduating from CU Boulder with a BS in May 2023!
+
+### 📫 How to reach me
+You can reach me at:
+
+Email: korry.tunnicliff@colorado.edu
+
+LinkedIn: https://www.linkedin.com/in/korry-tunnicliff/
 
 <!--
 **force10269/force10269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
