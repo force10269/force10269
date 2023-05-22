@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Korry Tunnicliff, a computer science student graduating from CU Boulder with a BS in May 2023!
+I'm Korry Tunnicliff, a software developer who graduated from CU Boulder in May, 2023.
 
 ### 🏞️ Portfolio Website
 Site: https://www.korrytunnicliff.com
