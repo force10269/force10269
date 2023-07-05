@@ -10,7 +10,7 @@ Site: https://www.tunnicliffblog.com
 ### 📫 How to reach me
 You can reach me at:
 
-Email: korry.tunnicliff@colorado.edu
+Email: korrytunnicliff@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/korry-tunnicliff/
 
