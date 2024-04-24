@@ -4,9 +4,6 @@ I'm Korry Tunnicliff, a software engineer at LineVision who graduated from CU Bo
 ### 🏞️ Portfolio Website
 Site: https://www.korrytunnicliff.com
 
-### 💬 Blog Website
-Site: https://www.tunnicliffblog.com
-
 ### 📫 How to reach me
 You can reach me at:
 
